@@ -7,6 +7,8 @@
 
 <img src="2.JPG"></img>
 
+Здесь сохранение и восстановление
+
 <img src="3.JPG"></img>
 
 <img src="X0mIYkhA1MQ.jpg"></img>
